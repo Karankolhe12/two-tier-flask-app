@@ -1,3 +1,4 @@
+[2-tier application deployment .pdf](https://github.com/Karankolhe12/two-tier-flask-app/files/13259191/2-tier.application.deployment.pdf)
 # Project Name: Deploying a Two-tier Application on Docker, Kubernetes, and EKS
 
 ## Project Overview
